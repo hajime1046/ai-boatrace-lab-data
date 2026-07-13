@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-13T23:30:10.630989+09:00",
+  "n_days": 1,
+  "overall": {
+    "n_confirmed": 156,
+    "n_hits": 91,
+    "hit_rate": 0.5833,
+    "stake": 15600,
+    "return": 15220,
+    "roi": 0.9756
+  },
+  "confidence_0_8_plus_strategy": {
+    "n_bets": 13,
+    "hits": 10,
+    "hit_rate": 0.7692,
+    "stake": 1300,
+    "return": 1240,
+    "roi": 0.9538
+  },
+  "daily_series": [
+    {
+      "date": "2026-07-13",
+      "confirmed": 156,
+      "hits": 91,
+      "roi": 0.9756
+    }
+  ]
+}
