@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "date": "2026-09-09",
-  "generated_at": "2026-09-25T23:31:22.739303+09:00",
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T23:30:10.770532+09:00",
   "model_id": "morning_logit_lane_v1_20260814T034248",
   "races": [
     {
@@ -11,897 +11,7 @@
       },
       "race_no": 1,
       "top_pick": 1,
-      "confidence": 0.5512,
-      "status": "confirmed",
-      "actual_winner": 3,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "01",
-        "name": "桐生"
-      },
-      "race_no": 2,
-      "top_pick": 1,
-      "confidence": 0.2823,
-      "status": "confirmed",
-      "actual_winner": 3,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "01",
-        "name": "桐生"
-      },
-      "race_no": 3,
-      "top_pick": 4,
-      "confidence": 0.4035,
-      "status": "confirmed",
-      "actual_winner": 2,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "01",
-        "name": "桐生"
-      },
-      "race_no": 4,
-      "top_pick": 1,
-      "confidence": 0.4801,
-      "status": "confirmed",
-      "actual_winner": 3,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "01",
-        "name": "桐生"
-      },
-      "race_no": 5,
-      "top_pick": 1,
-      "confidence": 0.5896,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 190
-    },
-    {
-      "venue": {
-        "code": "01",
-        "name": "桐生"
-      },
-      "race_no": 6,
-      "top_pick": 1,
-      "confidence": 0.8075,
-      "status": "confirmed",
-      "actual_winner": 5,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "01",
-        "name": "桐生"
-      },
-      "race_no": 7,
-      "top_pick": 1,
-      "confidence": 0.7612,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 130
-    },
-    {
-      "venue": {
-        "code": "01",
-        "name": "桐生"
-      },
-      "race_no": 8,
-      "top_pick": 1,
-      "confidence": 0.7394,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 160
-    },
-    {
-      "venue": {
-        "code": "01",
-        "name": "桐生"
-      },
-      "race_no": 9,
-      "top_pick": 1,
-      "confidence": 0.7488,
-      "status": "confirmed",
-      "actual_winner": 2,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "01",
-        "name": "桐生"
-      },
-      "race_no": 10,
-      "top_pick": 1,
-      "confidence": 0.7981,
-      "status": "confirmed",
-      "actual_winner": 3,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "01",
-        "name": "桐生"
-      },
-      "race_no": 11,
-      "top_pick": 1,
-      "confidence": 0.6893,
-      "status": "confirmed",
-      "actual_winner": 5,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "01",
-        "name": "桐生"
-      },
-      "race_no": 12,
-      "top_pick": 1,
-      "confidence": 0.5786,
-      "status": "confirmed",
-      "actual_winner": 3,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "03",
-        "name": "江戸川"
-      },
-      "race_no": 1,
-      "top_pick": 1,
-      "confidence": 0.6867,
-      "status": "pending"
-    },
-    {
-      "venue": {
-        "code": "03",
-        "name": "江戸川"
-      },
-      "race_no": 2,
-      "top_pick": 1,
-      "confidence": 0.6087,
-      "status": "pending"
-    },
-    {
-      "venue": {
-        "code": "03",
-        "name": "江戸川"
-      },
-      "race_no": 3,
-      "top_pick": 1,
-      "confidence": 0.6271,
-      "status": "pending"
-    },
-    {
-      "venue": {
-        "code": "03",
-        "name": "江戸川"
-      },
-      "race_no": 4,
-      "top_pick": 1,
-      "confidence": 0.587,
-      "status": "pending"
-    },
-    {
-      "venue": {
-        "code": "03",
-        "name": "江戸川"
-      },
-      "race_no": 5,
-      "top_pick": 1,
-      "confidence": 0.3982,
-      "status": "pending"
-    },
-    {
-      "venue": {
-        "code": "03",
-        "name": "江戸川"
-      },
-      "race_no": 6,
-      "top_pick": 1,
-      "confidence": 0.3646,
-      "status": "pending"
-    },
-    {
-      "venue": {
-        "code": "03",
-        "name": "江戸川"
-      },
-      "race_no": 7,
-      "top_pick": 5,
-      "confidence": 0.3573,
-      "status": "pending"
-    },
-    {
-      "venue": {
-        "code": "03",
-        "name": "江戸川"
-      },
-      "race_no": 8,
-      "top_pick": 1,
-      "confidence": 0.506,
-      "status": "pending"
-    },
-    {
-      "venue": {
-        "code": "03",
-        "name": "江戸川"
-      },
-      "race_no": 9,
-      "top_pick": 1,
-      "confidence": 0.5521,
-      "status": "pending"
-    },
-    {
-      "venue": {
-        "code": "03",
-        "name": "江戸川"
-      },
-      "race_no": 10,
-      "top_pick": 1,
-      "confidence": 0.6463,
-      "status": "pending"
-    },
-    {
-      "venue": {
-        "code": "03",
-        "name": "江戸川"
-      },
-      "race_no": 11,
-      "top_pick": 1,
-      "confidence": 0.8178,
-      "status": "pending"
-    },
-    {
-      "venue": {
-        "code": "03",
-        "name": "江戸川"
-      },
-      "race_no": 12,
-      "top_pick": 1,
-      "confidence": 0.6064,
-      "status": "pending"
-    },
-    {
-      "venue": {
-        "code": "04",
-        "name": "平和島"
-      },
-      "race_no": 1,
-      "top_pick": 1,
-      "confidence": 0.4049,
-      "status": "confirmed",
-      "actual_winner": 3,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "04",
-        "name": "平和島"
-      },
-      "race_no": 2,
-      "top_pick": 5,
-      "confidence": 0.475,
-      "status": "confirmed",
-      "actual_winner": 2,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "04",
-        "name": "平和島"
-      },
-      "race_no": 3,
-      "top_pick": 1,
-      "confidence": 0.5314,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 130
-    },
-    {
-      "venue": {
-        "code": "04",
-        "name": "平和島"
-      },
-      "race_no": 4,
-      "top_pick": 2,
-      "confidence": 0.3793,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "04",
-        "name": "平和島"
-      },
-      "race_no": 5,
-      "top_pick": 1,
-      "confidence": 0.6705,
-      "status": "confirmed",
-      "actual_winner": 2,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "04",
-        "name": "平和島"
-      },
-      "race_no": 6,
-      "top_pick": 1,
-      "confidence": 0.4222,
-      "status": "confirmed",
-      "actual_winner": 2,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "04",
-        "name": "平和島"
-      },
-      "race_no": 7,
-      "top_pick": 5,
-      "confidence": 0.3327,
-      "status": "confirmed",
-      "actual_winner": 3,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "04",
-        "name": "平和島"
-      },
-      "race_no": 8,
-      "top_pick": 1,
-      "confidence": 0.4712,
-      "status": "confirmed",
-      "actual_winner": 3,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "04",
-        "name": "平和島"
-      },
-      "race_no": 9,
-      "top_pick": 1,
-      "confidence": 0.5764,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 210
-    },
-    {
-      "venue": {
-        "code": "04",
-        "name": "平和島"
-      },
-      "race_no": 10,
-      "top_pick": 1,
-      "confidence": 0.7913,
-      "status": "confirmed",
-      "actual_winner": 3,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "04",
-        "name": "平和島"
-      },
-      "race_no": 11,
-      "top_pick": 1,
-      "confidence": 0.8052,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 100
-    },
-    {
-      "venue": {
-        "code": "04",
-        "name": "平和島"
-      },
-      "race_no": 12,
-      "top_pick": 1,
-      "confidence": 0.8222,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 100
-    },
-    {
-      "venue": {
-        "code": "05",
-        "name": "多摩川"
-      },
-      "race_no": 1,
-      "top_pick": 3,
-      "confidence": 0.2284,
-      "status": "confirmed",
-      "actual_winner": 4,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "05",
-        "name": "多摩川"
-      },
-      "race_no": 2,
-      "top_pick": 1,
-      "confidence": 0.4607,
-      "status": "confirmed",
-      "actual_winner": 3,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "05",
-        "name": "多摩川"
-      },
-      "race_no": 3,
-      "top_pick": 3,
-      "confidence": 0.3493,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "05",
-        "name": "多摩川"
-      },
-      "race_no": 4,
-      "top_pick": 1,
-      "confidence": 0.3722,
-      "status": "confirmed",
-      "actual_winner": 4,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "05",
-        "name": "多摩川"
-      },
-      "race_no": 5,
-      "top_pick": 1,
-      "confidence": 0.4365,
-      "status": "confirmed",
-      "actual_winner": 5,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "05",
-        "name": "多摩川"
-      },
-      "race_no": 6,
-      "top_pick": 1,
-      "confidence": 0.6943,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 200
-    },
-    {
-      "venue": {
-        "code": "05",
-        "name": "多摩川"
-      },
-      "race_no": 7,
-      "top_pick": 1,
-      "confidence": 0.4129,
-      "status": "confirmed",
-      "actual_winner": 2,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "05",
-        "name": "多摩川"
-      },
-      "race_no": 8,
-      "top_pick": 1,
-      "confidence": 0.7034,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 170
-    },
-    {
-      "venue": {
-        "code": "05",
-        "name": "多摩川"
-      },
-      "race_no": 9,
-      "top_pick": 1,
-      "confidence": 0.6419,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 120
-    },
-    {
-      "venue": {
-        "code": "05",
-        "name": "多摩川"
-      },
-      "race_no": 10,
-      "top_pick": 1,
-      "confidence": 0.6267,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 130
-    },
-    {
-      "venue": {
-        "code": "05",
-        "name": "多摩川"
-      },
-      "race_no": 11,
-      "top_pick": 1,
-      "confidence": 0.4884,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 130
-    },
-    {
-      "venue": {
-        "code": "05",
-        "name": "多摩川"
-      },
-      "race_no": 12,
-      "top_pick": 1,
-      "confidence": 0.6084,
-      "status": "confirmed",
-      "actual_winner": 2,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "11",
-        "name": "びわこ"
-      },
-      "race_no": 1,
-      "top_pick": 1,
-      "confidence": 0.6682,
-      "status": "confirmed",
-      "actual_winner": 4,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "11",
-        "name": "びわこ"
-      },
-      "race_no": 2,
-      "top_pick": 3,
-      "confidence": 0.4604,
-      "status": "confirmed",
-      "actual_winner": 2,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "11",
-        "name": "びわこ"
-      },
-      "race_no": 3,
-      "top_pick": 1,
-      "confidence": 0.6808,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 100
-    },
-    {
-      "venue": {
-        "code": "11",
-        "name": "びわこ"
-      },
-      "race_no": 4,
-      "top_pick": 1,
-      "confidence": 0.6856,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 130
-    },
-    {
-      "venue": {
-        "code": "11",
-        "name": "びわこ"
-      },
-      "race_no": 5,
-      "top_pick": 1,
-      "confidence": 0.4659,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 130
-    },
-    {
-      "venue": {
-        "code": "11",
-        "name": "びわこ"
-      },
-      "race_no": 6,
-      "top_pick": 1,
-      "confidence": 0.5664,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 140
-    },
-    {
-      "venue": {
-        "code": "11",
-        "name": "びわこ"
-      },
-      "race_no": 7,
-      "top_pick": 1,
-      "confidence": 0.9085,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 120
-    },
-    {
-      "venue": {
-        "code": "11",
-        "name": "びわこ"
-      },
-      "race_no": 8,
-      "top_pick": 1,
-      "confidence": 0.6705,
-      "status": "confirmed",
-      "actual_winner": 3,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "11",
-        "name": "びわこ"
-      },
-      "race_no": 9,
-      "top_pick": 1,
-      "confidence": 0.6006,
-      "status": "confirmed",
-      "actual_winner": 4,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "11",
-        "name": "びわこ"
-      },
-      "race_no": 10,
-      "top_pick": 1,
-      "confidence": 0.6625,
-      "status": "confirmed",
-      "actual_winner": 2,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "11",
-        "name": "びわこ"
-      },
-      "race_no": 11,
-      "top_pick": 1,
-      "confidence": 0.7876,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 210
-    },
-    {
-      "venue": {
-        "code": "11",
-        "name": "びわこ"
-      },
-      "race_no": 12,
-      "top_pick": 1,
-      "confidence": 0.7197,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 120
-    },
-    {
-      "venue": {
-        "code": "13",
-        "name": "尼崎"
-      },
-      "race_no": 1,
-      "top_pick": 3,
-      "confidence": 0.4847,
-      "status": "confirmed",
-      "actual_winner": 4,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "13",
-        "name": "尼崎"
-      },
-      "race_no": 2,
-      "top_pick": 5,
-      "confidence": 0.3911,
-      "status": "confirmed",
-      "actual_winner": 2,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "13",
-        "name": "尼崎"
-      },
-      "race_no": 3,
-      "top_pick": 1,
-      "confidence": 0.7677,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 160
-    },
-    {
-      "venue": {
-        "code": "13",
-        "name": "尼崎"
-      },
-      "race_no": 4,
-      "top_pick": 1,
-      "confidence": 0.4515,
-      "status": "confirmed",
-      "actual_winner": 5,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "13",
-        "name": "尼崎"
-      },
-      "race_no": 5,
-      "top_pick": 2,
-      "confidence": 0.4432,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "13",
-        "name": "尼崎"
-      },
-      "race_no": 6,
-      "top_pick": 1,
-      "confidence": 0.6674,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 110
-    },
-    {
-      "venue": {
-        "code": "13",
-        "name": "尼崎"
-      },
-      "race_no": 7,
-      "top_pick": 1,
-      "confidence": 0.5934,
-      "status": "confirmed",
-      "actual_winner": 5,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "13",
-        "name": "尼崎"
-      },
-      "race_no": 8,
-      "top_pick": 1,
-      "confidence": 0.5996,
+      "confidence": 0.446,
       "status": "confirmed",
       "actual_winner": 1,
       "hit": true,
@@ -910,82 +20,12 @@
     },
     {
       "venue": {
-        "code": "13",
-        "name": "尼崎"
-      },
-      "race_no": 9,
-      "top_pick": 1,
-      "confidence": 0.525,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 130
-    },
-    {
-      "venue": {
-        "code": "13",
-        "name": "尼崎"
-      },
-      "race_no": 10,
-      "top_pick": 1,
-      "confidence": 0.4633,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 170
-    },
-    {
-      "venue": {
-        "code": "13",
-        "name": "尼崎"
-      },
-      "race_no": 11,
-      "top_pick": 1,
-      "confidence": 0.6941,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 130
-    },
-    {
-      "venue": {
-        "code": "13",
-        "name": "尼崎"
-      },
-      "race_no": 12,
-      "top_pick": 1,
-      "confidence": 0.7401,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 110
-    },
-    {
-      "venue": {
-        "code": "14",
-        "name": "鳴門"
-      },
-      "race_no": 1,
-      "top_pick": 1,
-      "confidence": 0.9028,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 110
-    },
-    {
-      "venue": {
-        "code": "14",
-        "name": "鳴門"
+        "code": "01",
+        "name": "桐生"
       },
       "race_no": 2,
       "top_pick": 1,
-      "confidence": 0.4479,
+      "confidence": 0.3359,
       "status": "confirmed",
       "actual_winner": 3,
       "hit": false,
@@ -994,292 +34,12 @@
     },
     {
       "venue": {
-        "code": "14",
-        "name": "鳴門"
+        "code": "01",
+        "name": "桐生"
       },
       "race_no": 3,
       "top_pick": 1,
-      "confidence": 0.8149,
-      "status": "confirmed",
-      "actual_winner": 3,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "14",
-        "name": "鳴門"
-      },
-      "race_no": 4,
-      "top_pick": 1,
-      "confidence": 0.4099,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 250
-    },
-    {
-      "venue": {
-        "code": "14",
-        "name": "鳴門"
-      },
-      "race_no": 5,
-      "top_pick": 1,
-      "confidence": 0.4073,
-      "status": "confirmed",
-      "actual_winner": 4,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "14",
-        "name": "鳴門"
-      },
-      "race_no": 6,
-      "top_pick": 2,
-      "confidence": 0.4734,
-      "status": "confirmed",
-      "actual_winner": 2,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 220
-    },
-    {
-      "venue": {
-        "code": "14",
-        "name": "鳴門"
-      },
-      "race_no": 7,
-      "top_pick": 5,
-      "confidence": 0.2723,
-      "status": "confirmed",
-      "actual_winner": 5,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 420
-    },
-    {
-      "venue": {
-        "code": "14",
-        "name": "鳴門"
-      },
-      "race_no": 8,
-      "top_pick": 1,
-      "confidence": 0.4429,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 240
-    },
-    {
-      "venue": {
-        "code": "14",
-        "name": "鳴門"
-      },
-      "race_no": 9,
-      "top_pick": 1,
-      "confidence": 0.6162,
-      "status": "confirmed",
-      "actual_winner": 2,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "14",
-        "name": "鳴門"
-      },
-      "race_no": 10,
-      "top_pick": 5,
-      "confidence": 0.3225,
-      "status": "confirmed",
-      "actual_winner": 2,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "14",
-        "name": "鳴門"
-      },
-      "race_no": 11,
-      "top_pick": 1,
-      "confidence": 0.4762,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 190
-    },
-    {
-      "venue": {
-        "code": "14",
-        "name": "鳴門"
-      },
-      "race_no": 12,
-      "top_pick": 1,
-      "confidence": 0.7034,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 140
-    },
-    {
-      "venue": {
-        "code": "16",
-        "name": "児島"
-      },
-      "race_no": 1,
-      "top_pick": 1,
-      "confidence": 0.7754,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 130
-    },
-    {
-      "venue": {
-        "code": "16",
-        "name": "児島"
-      },
-      "race_no": 2,
-      "top_pick": 1,
-      "confidence": 0.3158,
-      "status": "confirmed",
-      "actual_winner": 3,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "16",
-        "name": "児島"
-      },
-      "race_no": 3,
-      "top_pick": 2,
-      "confidence": 0.2892,
-      "status": "confirmed",
-      "actual_winner": 2,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 250
-    },
-    {
-      "venue": {
-        "code": "16",
-        "name": "児島"
-      },
-      "race_no": 4,
-      "top_pick": 4,
-      "confidence": 0.419,
-      "status": "confirmed",
-      "actual_winner": 2,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "16",
-        "name": "児島"
-      },
-      "race_no": 5,
-      "top_pick": 1,
-      "confidence": 0.6939,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 190
-    },
-    {
-      "venue": {
-        "code": "16",
-        "name": "児島"
-      },
-      "race_no": 6,
-      "top_pick": 1,
-      "confidence": 0.359,
-      "status": "confirmed",
-      "actual_winner": 3,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "16",
-        "name": "児島"
-      },
-      "race_no": 7,
-      "top_pick": 1,
-      "confidence": 0.3415,
-      "status": "confirmed",
-      "actual_winner": 3,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "16",
-        "name": "児島"
-      },
-      "race_no": 8,
-      "top_pick": 1,
-      "confidence": 0.6066,
-      "status": "confirmed",
-      "actual_winner": 2,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "16",
-        "name": "児島"
-      },
-      "race_no": 9,
-      "top_pick": 1,
-      "confidence": 0.531,
-      "status": "confirmed",
-      "actual_winner": 4,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "16",
-        "name": "児島"
-      },
-      "race_no": 10,
-      "top_pick": 1,
-      "confidence": 0.362,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 540
-    },
-    {
-      "venue": {
-        "code": "16",
-        "name": "児島"
-      },
-      "race_no": 11,
-      "top_pick": 1,
-      "confidence": 0.7659,
+      "confidence": 0.4775,
       "status": "confirmed",
       "actual_winner": 1,
       "hit": true,
@@ -1288,642 +48,26 @@
     },
     {
       "venue": {
-        "code": "16",
-        "name": "児島"
-      },
-      "race_no": 12,
-      "top_pick": 1,
-      "confidence": 0.7424,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 130
-    },
-    {
-      "venue": {
-        "code": "17",
-        "name": "宮島"
-      },
-      "race_no": 1,
-      "top_pick": 1,
-      "confidence": 0.5392,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 110
-    },
-    {
-      "venue": {
-        "code": "17",
-        "name": "宮島"
-      },
-      "race_no": 2,
-      "top_pick": 1,
-      "confidence": 0.4852,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 220
-    },
-    {
-      "venue": {
-        "code": "17",
-        "name": "宮島"
-      },
-      "race_no": 3,
-      "top_pick": 1,
-      "confidence": 0.4115,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 120
-    },
-    {
-      "venue": {
-        "code": "17",
-        "name": "宮島"
+        "code": "01",
+        "name": "桐生"
       },
       "race_no": 4,
-      "top_pick": 2,
-      "confidence": 0.4683,
+      "top_pick": 4,
+      "confidence": 0.4283,
       "status": "confirmed",
-      "actual_winner": 4,
+      "actual_winner": 1,
       "hit": false,
       "stake": 100,
       "payout_yen": 0
     },
     {
       "venue": {
-        "code": "17",
-        "name": "宮島"
+        "code": "01",
+        "name": "桐生"
       },
       "race_no": 5,
       "top_pick": 1,
-      "confidence": 0.7479,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 200
-    },
-    {
-      "venue": {
-        "code": "17",
-        "name": "宮島"
-      },
-      "race_no": 6,
-      "top_pick": 1,
-      "confidence": 0.5185,
-      "status": "confirmed",
-      "actual_winner": 3,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "17",
-        "name": "宮島"
-      },
-      "race_no": 7,
-      "top_pick": 2,
-      "confidence": 0.3586,
-      "status": "confirmed",
-      "actual_winner": 2,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 150
-    },
-    {
-      "venue": {
-        "code": "17",
-        "name": "宮島"
-      },
-      "race_no": 8,
-      "top_pick": 3,
-      "confidence": 0.384,
-      "status": "confirmed",
-      "actual_winner": 6,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "17",
-        "name": "宮島"
-      },
-      "race_no": 9,
-      "top_pick": 1,
-      "confidence": 0.3166,
-      "status": "confirmed",
-      "actual_winner": 5,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "17",
-        "name": "宮島"
-      },
-      "race_no": 10,
-      "top_pick": 1,
-      "confidence": 0.3591,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 280
-    },
-    {
-      "venue": {
-        "code": "17",
-        "name": "宮島"
-      },
-      "race_no": 11,
-      "top_pick": 1,
-      "confidence": 0.6235,
-      "status": "confirmed",
-      "actual_winner": 3,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "17",
-        "name": "宮島"
-      },
-      "race_no": 12,
-      "top_pick": 1,
-      "confidence": 0.6305,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 130
-    },
-    {
-      "venue": {
-        "code": "20",
-        "name": "若松"
-      },
-      "race_no": 1,
-      "top_pick": 1,
-      "confidence": 0.546,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 100
-    },
-    {
-      "venue": {
-        "code": "20",
-        "name": "若松"
-      },
-      "race_no": 2,
-      "top_pick": 1,
-      "confidence": 0.3795,
-      "status": "confirmed",
-      "actual_winner": 2,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "20",
-        "name": "若松"
-      },
-      "race_no": 3,
-      "top_pick": 1,
-      "confidence": 0.4593,
-      "status": "confirmed",
-      "actual_winner": 4,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "20",
-        "name": "若松"
-      },
-      "race_no": 4,
-      "top_pick": 1,
-      "confidence": 0.4358,
-      "status": "confirmed",
-      "actual_winner": 4,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "20",
-        "name": "若松"
-      },
-      "race_no": 5,
-      "top_pick": 1,
-      "confidence": 0.5643,
-      "status": "confirmed",
-      "actual_winner": 4,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "20",
-        "name": "若松"
-      },
-      "race_no": 6,
-      "top_pick": 1,
-      "confidence": 0.4987,
-      "status": "confirmed",
-      "actual_winner": 2,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "20",
-        "name": "若松"
-      },
-      "race_no": 7,
-      "top_pick": 1,
-      "confidence": 0.7911,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 140
-    },
-    {
-      "venue": {
-        "code": "20",
-        "name": "若松"
-      },
-      "race_no": 8,
-      "top_pick": 1,
-      "confidence": 0.716,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 110
-    },
-    {
-      "venue": {
-        "code": "20",
-        "name": "若松"
-      },
-      "race_no": 9,
-      "top_pick": 1,
-      "confidence": 0.7792,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 100
-    },
-    {
-      "venue": {
-        "code": "20",
-        "name": "若松"
-      },
-      "race_no": 10,
-      "top_pick": 1,
-      "confidence": 0.6583,
-      "status": "confirmed",
-      "actual_winner": 3,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "20",
-        "name": "若松"
-      },
-      "race_no": 11,
-      "top_pick": 1,
-      "confidence": 0.6236,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 140
-    },
-    {
-      "venue": {
-        "code": "20",
-        "name": "若松"
-      },
-      "race_no": 12,
-      "top_pick": 1,
-      "confidence": 0.5933,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 150
-    },
-    {
-      "venue": {
-        "code": "21",
-        "name": "芦屋"
-      },
-      "race_no": 1,
-      "top_pick": 1,
-      "confidence": 0.7514,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 130
-    },
-    {
-      "venue": {
-        "code": "21",
-        "name": "芦屋"
-      },
-      "race_no": 2,
-      "top_pick": 1,
-      "confidence": 0.6906,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 130
-    },
-    {
-      "venue": {
-        "code": "21",
-        "name": "芦屋"
-      },
-      "race_no": 3,
-      "top_pick": 1,
-      "confidence": 0.7353,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 140
-    },
-    {
-      "venue": {
-        "code": "21",
-        "name": "芦屋"
-      },
-      "race_no": 4,
-      "top_pick": 1,
-      "confidence": 0.8182,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 110
-    },
-    {
-      "venue": {
-        "code": "21",
-        "name": "芦屋"
-      },
-      "race_no": 5,
-      "top_pick": 1,
-      "confidence": 0.7539,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 140
-    },
-    {
-      "venue": {
-        "code": "21",
-        "name": "芦屋"
-      },
-      "race_no": 6,
-      "top_pick": 1,
-      "confidence": 0.4222,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 450
-    },
-    {
-      "venue": {
-        "code": "21",
-        "name": "芦屋"
-      },
-      "race_no": 7,
-      "top_pick": 1,
-      "confidence": 0.5548,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 190
-    },
-    {
-      "venue": {
-        "code": "21",
-        "name": "芦屋"
-      },
-      "race_no": 8,
-      "top_pick": 2,
-      "confidence": 0.424,
-      "status": "confirmed",
-      "actual_winner": 2,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 130
-    },
-    {
-      "venue": {
-        "code": "21",
-        "name": "芦屋"
-      },
-      "race_no": 9,
-      "top_pick": 1,
-      "confidence": 0.7342,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 100
-    },
-    {
-      "venue": {
-        "code": "21",
-        "name": "芦屋"
-      },
-      "race_no": 10,
-      "top_pick": 1,
-      "confidence": 0.5988,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 170
-    },
-    {
-      "venue": {
-        "code": "21",
-        "name": "芦屋"
-      },
-      "race_no": 11,
-      "top_pick": 1,
-      "confidence": 0.6679,
-      "status": "confirmed",
-      "actual_winner": 5,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "21",
-        "name": "芦屋"
-      },
-      "race_no": 12,
-      "top_pick": 1,
-      "confidence": 0.7244,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 100
-    },
-    {
-      "venue": {
-        "code": "24",
-        "name": "大村"
-      },
-      "race_no": 1,
-      "top_pick": 1,
-      "confidence": 0.6944,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 140
-    },
-    {
-      "venue": {
-        "code": "24",
-        "name": "大村"
-      },
-      "race_no": 2,
-      "top_pick": 1,
-      "confidence": 0.6141,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 130
-    },
-    {
-      "venue": {
-        "code": "24",
-        "name": "大村"
-      },
-      "race_no": 3,
-      "top_pick": 1,
-      "confidence": 0.6502,
-      "status": "confirmed",
-      "actual_winner": 4,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "24",
-        "name": "大村"
-      },
-      "race_no": 4,
-      "top_pick": 1,
-      "confidence": 0.7137,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 100
-    },
-    {
-      "venue": {
-        "code": "24",
-        "name": "大村"
-      },
-      "race_no": 5,
-      "top_pick": 1,
-      "confidence": 0.6426,
-      "status": "confirmed",
-      "actual_winner": 3,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "24",
-        "name": "大村"
-      },
-      "race_no": 6,
-      "top_pick": 1,
-      "confidence": 0.5628,
-      "status": "confirmed",
-      "actual_winner": 2,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "24",
-        "name": "大村"
-      },
-      "race_no": 7,
-      "top_pick": 1,
-      "confidence": 0.5411,
-      "status": "confirmed",
-      "actual_winner": 1,
-      "hit": true,
-      "stake": 100,
-      "payout_yen": 130
-    },
-    {
-      "venue": {
-        "code": "24",
-        "name": "大村"
-      },
-      "race_no": 8,
-      "top_pick": 1,
-      "confidence": 0.6024,
-      "status": "confirmed",
-      "actual_winner": 5,
-      "hit": false,
-      "stake": 100,
-      "payout_yen": 0
-    },
-    {
-      "venue": {
-        "code": "24",
-        "name": "大村"
-      },
-      "race_no": 9,
-      "top_pick": 1,
-      "confidence": 0.5,
+      "confidence": 0.6523,
       "status": "confirmed",
       "actual_winner": 1,
       "hit": true,
@@ -1932,12 +76,558 @@
     },
     {
       "venue": {
-        "code": "24",
-        "name": "大村"
+        "code": "01",
+        "name": "桐生"
+      },
+      "race_no": 6,
+      "top_pick": 1,
+      "confidence": 0.6826,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 140
+    },
+    {
+      "venue": {
+        "code": "01",
+        "name": "桐生"
+      },
+      "race_no": 7,
+      "top_pick": 1,
+      "confidence": 0.6698,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 130
+    },
+    {
+      "venue": {
+        "code": "01",
+        "name": "桐生"
+      },
+      "race_no": 8,
+      "top_pick": 2,
+      "confidence": 0.348,
+      "status": "confirmed",
+      "actual_winner": 2,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 160
+    },
+    {
+      "venue": {
+        "code": "01",
+        "name": "桐生"
+      },
+      "race_no": 9,
+      "top_pick": 1,
+      "confidence": 0.5248,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 140
+    },
+    {
+      "venue": {
+        "code": "01",
+        "name": "桐生"
       },
       "race_no": 10,
       "top_pick": 1,
-      "confidence": 0.707,
+      "confidence": 0.6778,
+      "status": "confirmed",
+      "actual_winner": 2,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "01",
+        "name": "桐生"
+      },
+      "race_no": 11,
+      "top_pick": 1,
+      "confidence": 0.5379,
+      "status": "confirmed",
+      "actual_winner": 3,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "01",
+        "name": "桐生"
+      },
+      "race_no": 12,
+      "top_pick": 1,
+      "confidence": 0.524,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 130
+    },
+    {
+      "venue": {
+        "code": "05",
+        "name": "多摩川"
+      },
+      "race_no": 1,
+      "top_pick": 1,
+      "confidence": 0.4032,
+      "status": "confirmed",
+      "actual_winner": 4,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "05",
+        "name": "多摩川"
+      },
+      "race_no": 2,
+      "top_pick": 1,
+      "confidence": 0.3845,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 180
+    },
+    {
+      "venue": {
+        "code": "05",
+        "name": "多摩川"
+      },
+      "race_no": 3,
+      "top_pick": 1,
+      "confidence": 0.3966,
+      "status": "confirmed",
+      "actual_winner": 2,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "05",
+        "name": "多摩川"
+      },
+      "race_no": 4,
+      "top_pick": 1,
+      "confidence": 0.5611,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 110
+    },
+    {
+      "venue": {
+        "code": "05",
+        "name": "多摩川"
+      },
+      "race_no": 5,
+      "top_pick": 1,
+      "confidence": 0.4459,
+      "status": "confirmed",
+      "actual_winner": 3,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "05",
+        "name": "多摩川"
+      },
+      "race_no": 6,
+      "top_pick": 3,
+      "confidence": 0.3893,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "05",
+        "name": "多摩川"
+      },
+      "race_no": 7,
+      "top_pick": 1,
+      "confidence": 0.3837,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 250
+    },
+    {
+      "venue": {
+        "code": "05",
+        "name": "多摩川"
+      },
+      "race_no": 8,
+      "top_pick": 1,
+      "confidence": 0.5813,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 140
+    },
+    {
+      "venue": {
+        "code": "05",
+        "name": "多摩川"
+      },
+      "race_no": 9,
+      "top_pick": 1,
+      "confidence": 0.6155,
+      "status": "confirmed",
+      "actual_winner": 3,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "05",
+        "name": "多摩川"
+      },
+      "race_no": 10,
+      "top_pick": 1,
+      "confidence": 0.5966,
+      "status": "confirmed",
+      "actual_winner": 5,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "05",
+        "name": "多摩川"
+      },
+      "race_no": 11,
+      "top_pick": 1,
+      "confidence": 0.7489,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 140
+    },
+    {
+      "venue": {
+        "code": "05",
+        "name": "多摩川"
+      },
+      "race_no": 12,
+      "top_pick": 1,
+      "confidence": 0.6672,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 130
+    },
+    {
+      "venue": {
+        "code": "08",
+        "name": "常滑"
+      },
+      "race_no": 1,
+      "top_pick": 1,
+      "confidence": 0.7092,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 190
+    },
+    {
+      "venue": {
+        "code": "08",
+        "name": "常滑"
+      },
+      "race_no": 2,
+      "top_pick": 3,
+      "confidence": 0.5084,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "08",
+        "name": "常滑"
+      },
+      "race_no": 3,
+      "top_pick": 3,
+      "confidence": 0.3034,
+      "status": "confirmed",
+      "actual_winner": 3,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 1050
+    },
+    {
+      "venue": {
+        "code": "08",
+        "name": "常滑"
+      },
+      "race_no": 4,
+      "top_pick": 2,
+      "confidence": 0.4786,
+      "status": "confirmed",
+      "actual_winner": 4,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "08",
+        "name": "常滑"
+      },
+      "race_no": 5,
+      "top_pick": 1,
+      "confidence": 0.6355,
+      "status": "confirmed",
+      "actual_winner": 3,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "08",
+        "name": "常滑"
+      },
+      "race_no": 6,
+      "top_pick": 1,
+      "confidence": 0.4864,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 150
+    },
+    {
+      "venue": {
+        "code": "08",
+        "name": "常滑"
+      },
+      "race_no": 7,
+      "top_pick": 2,
+      "confidence": 0.4643,
+      "status": "confirmed",
+      "actual_winner": 5,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "08",
+        "name": "常滑"
+      },
+      "race_no": 8,
+      "top_pick": 1,
+      "confidence": 0.3539,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 290
+    },
+    {
+      "venue": {
+        "code": "08",
+        "name": "常滑"
+      },
+      "race_no": 9,
+      "top_pick": 1,
+      "confidence": 0.4322,
+      "status": "confirmed",
+      "actual_winner": 2,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "08",
+        "name": "常滑"
+      },
+      "race_no": 10,
+      "top_pick": 1,
+      "confidence": 0.5749,
+      "status": "confirmed",
+      "actual_winner": 5,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "08",
+        "name": "常滑"
+      },
+      "race_no": 11,
+      "top_pick": 1,
+      "confidence": 0.8086,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 100
+    },
+    {
+      "venue": {
+        "code": "08",
+        "name": "常滑"
+      },
+      "race_no": 12,
+      "top_pick": 1,
+      "confidence": 0.7549,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 110
+    },
+    {
+      "venue": {
+        "code": "09",
+        "name": "津"
+      },
+      "race_no": 1,
+      "top_pick": 1,
+      "confidence": 0.7659,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 100
+    },
+    {
+      "venue": {
+        "code": "09",
+        "name": "津"
+      },
+      "race_no": 2,
+      "top_pick": 1,
+      "confidence": 0.431,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 100
+    },
+    {
+      "venue": {
+        "code": "09",
+        "name": "津"
+      },
+      "race_no": 3,
+      "top_pick": 1,
+      "confidence": 0.6401,
+      "status": "confirmed",
+      "actual_winner": 4,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "09",
+        "name": "津"
+      },
+      "race_no": 4,
+      "top_pick": 1,
+      "confidence": 0.3833,
+      "status": "confirmed",
+      "actual_winner": 3,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "09",
+        "name": "津"
+      },
+      "race_no": 5,
+      "top_pick": 1,
+      "confidence": 0.7466,
+      "status": "confirmed",
+      "actual_winner": 2,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "09",
+        "name": "津"
+      },
+      "race_no": 6,
+      "top_pick": 4,
+      "confidence": 0.5277,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "09",
+        "name": "津"
+      },
+      "race_no": 7,
+      "top_pick": 1,
+      "confidence": 0.4724,
+      "status": "confirmed",
+      "actual_winner": 3,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "09",
+        "name": "津"
+      },
+      "race_no": 8,
+      "top_pick": 2,
+      "confidence": 0.3814,
+      "status": "confirmed",
+      "actual_winner": 2,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 130
+    },
+    {
+      "venue": {
+        "code": "09",
+        "name": "津"
+      },
+      "race_no": 9,
+      "top_pick": 1,
+      "confidence": 0.5573,
       "status": "confirmed",
       "actual_winner": 1,
       "hit": true,
@@ -1946,12 +636,1300 @@
     },
     {
       "venue": {
-        "code": "24",
-        "name": "大村"
+        "code": "09",
+        "name": "津"
+      },
+      "race_no": 10,
+      "top_pick": 1,
+      "confidence": 0.9136,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 100
+    },
+    {
+      "venue": {
+        "code": "09",
+        "name": "津"
       },
       "race_no": 11,
       "top_pick": 1,
-      "confidence": 0.6052,
+      "confidence": 0.6987,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 110
+    },
+    {
+      "venue": {
+        "code": "09",
+        "name": "津"
+      },
+      "race_no": 12,
+      "top_pick": 1,
+      "confidence": 0.5698,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 100
+    },
+    {
+      "venue": {
+        "code": "10",
+        "name": "三国"
+      },
+      "race_no": 1,
+      "top_pick": 1,
+      "confidence": 0.8736,
+      "status": "confirmed",
+      "actual_winner": 3,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "10",
+        "name": "三国"
+      },
+      "race_no": 2,
+      "top_pick": 1,
+      "confidence": 0.6929,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 160
+    },
+    {
+      "venue": {
+        "code": "10",
+        "name": "三国"
+      },
+      "race_no": 3,
+      "top_pick": 1,
+      "confidence": 0.5352,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 200
+    },
+    {
+      "venue": {
+        "code": "10",
+        "name": "三国"
+      },
+      "race_no": 4,
+      "top_pick": 1,
+      "confidence": 0.7255,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 130
+    },
+    {
+      "venue": {
+        "code": "10",
+        "name": "三国"
+      },
+      "race_no": 5,
+      "top_pick": 2,
+      "confidence": 0.5449,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "10",
+        "name": "三国"
+      },
+      "race_no": 6,
+      "top_pick": 1,
+      "confidence": 0.5179,
+      "status": "confirmed",
+      "actual_winner": 6,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "10",
+        "name": "三国"
+      },
+      "race_no": 7,
+      "top_pick": 1,
+      "confidence": 0.42,
+      "status": "confirmed",
+      "actual_winner": 3,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "10",
+        "name": "三国"
+      },
+      "race_no": 8,
+      "top_pick": 1,
+      "confidence": 0.6584,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 120
+    },
+    {
+      "venue": {
+        "code": "10",
+        "name": "三国"
+      },
+      "race_no": 9,
+      "top_pick": 1,
+      "confidence": 0.6912,
+      "status": "confirmed",
+      "actual_winner": 3,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "10",
+        "name": "三国"
+      },
+      "race_no": 10,
+      "top_pick": 1,
+      "confidence": 0.6372,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 140
+    },
+    {
+      "venue": {
+        "code": "10",
+        "name": "三国"
+      },
+      "race_no": 11,
+      "top_pick": 1,
+      "confidence": 0.5626,
+      "status": "confirmed",
+      "actual_winner": 2,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "10",
+        "name": "三国"
+      },
+      "race_no": 12,
+      "top_pick": 1,
+      "confidence": 0.4161,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 220
+    },
+    {
+      "venue": {
+        "code": "11",
+        "name": "びわこ"
+      },
+      "race_no": 1,
+      "top_pick": 2,
+      "confidence": 0.3138,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "11",
+        "name": "びわこ"
+      },
+      "race_no": 2,
+      "top_pick": 1,
+      "confidence": 0.4146,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 330
+    },
+    {
+      "venue": {
+        "code": "11",
+        "name": "びわこ"
+      },
+      "race_no": 3,
+      "top_pick": 2,
+      "confidence": 0.3102,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "11",
+        "name": "びわこ"
+      },
+      "race_no": 4,
+      "top_pick": 3,
+      "confidence": 0.3204,
+      "status": "confirmed",
+      "actual_winner": 3,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 350
+    },
+    {
+      "venue": {
+        "code": "11",
+        "name": "びわこ"
+      },
+      "race_no": 5,
+      "top_pick": 1,
+      "confidence": 0.4714,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 100
+    },
+    {
+      "venue": {
+        "code": "11",
+        "name": "びわこ"
+      },
+      "race_no": 6,
+      "top_pick": 2,
+      "confidence": 0.4046,
+      "status": "confirmed",
+      "actual_winner": 2,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 350
+    },
+    {
+      "venue": {
+        "code": "11",
+        "name": "びわこ"
+      },
+      "race_no": 7,
+      "top_pick": 3,
+      "confidence": 0.3585,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "11",
+        "name": "びわこ"
+      },
+      "race_no": 8,
+      "top_pick": 1,
+      "confidence": 0.4005,
+      "status": "confirmed",
+      "actual_winner": 2,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "11",
+        "name": "びわこ"
+      },
+      "race_no": 9,
+      "top_pick": 1,
+      "confidence": 0.5254,
+      "status": "confirmed",
+      "actual_winner": 2,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "11",
+        "name": "びわこ"
+      },
+      "race_no": 10,
+      "top_pick": 1,
+      "confidence": 0.8339,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 100
+    },
+    {
+      "venue": {
+        "code": "11",
+        "name": "びわこ"
+      },
+      "race_no": 11,
+      "top_pick": 1,
+      "confidence": 0.6523,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 200
+    },
+    {
+      "venue": {
+        "code": "11",
+        "name": "びわこ"
+      },
+      "race_no": 12,
+      "top_pick": 1,
+      "confidence": 0.7315,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 110
+    },
+    {
+      "venue": {
+        "code": "13",
+        "name": "尼崎"
+      },
+      "race_no": 1,
+      "top_pick": 3,
+      "confidence": 0.7073,
+      "status": "confirmed",
+      "actual_winner": 3,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 120
+    },
+    {
+      "venue": {
+        "code": "13",
+        "name": "尼崎"
+      },
+      "race_no": 2,
+      "top_pick": 4,
+      "confidence": 0.3622,
+      "status": "confirmed",
+      "actual_winner": 4,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 190
+    },
+    {
+      "venue": {
+        "code": "13",
+        "name": "尼崎"
+      },
+      "race_no": 3,
+      "top_pick": 1,
+      "confidence": 0.3684,
+      "status": "confirmed",
+      "actual_winner": 2,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "13",
+        "name": "尼崎"
+      },
+      "race_no": 4,
+      "top_pick": 3,
+      "confidence": 0.4241,
+      "status": "confirmed",
+      "actual_winner": 3,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 100
+    },
+    {
+      "venue": {
+        "code": "13",
+        "name": "尼崎"
+      },
+      "race_no": 5,
+      "top_pick": 1,
+      "confidence": 0.7562,
+      "status": "confirmed",
+      "actual_winner": 5,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "13",
+        "name": "尼崎"
+      },
+      "race_no": 6,
+      "top_pick": 1,
+      "confidence": 0.4805,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 410
+    },
+    {
+      "venue": {
+        "code": "13",
+        "name": "尼崎"
+      },
+      "race_no": 7,
+      "top_pick": 3,
+      "confidence": 0.4103,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "13",
+        "name": "尼崎"
+      },
+      "race_no": 8,
+      "top_pick": 1,
+      "confidence": 0.6394,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 100
+    },
+    {
+      "venue": {
+        "code": "13",
+        "name": "尼崎"
+      },
+      "race_no": 9,
+      "top_pick": 1,
+      "confidence": 0.4428,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 570
+    },
+    {
+      "venue": {
+        "code": "13",
+        "name": "尼崎"
+      },
+      "race_no": 10,
+      "top_pick": 1,
+      "confidence": 0.5981,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 100
+    },
+    {
+      "venue": {
+        "code": "13",
+        "name": "尼崎"
+      },
+      "race_no": 11,
+      "top_pick": 1,
+      "confidence": 0.6773,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 150
+    },
+    {
+      "venue": {
+        "code": "13",
+        "name": "尼崎"
+      },
+      "race_no": 12,
+      "top_pick": 1,
+      "confidence": 0.7505,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 120
+    },
+    {
+      "venue": {
+        "code": "18",
+        "name": "徳山"
+      },
+      "race_no": 1,
+      "top_pick": 1,
+      "confidence": 0.686,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 110
+    },
+    {
+      "venue": {
+        "code": "18",
+        "name": "徳山"
+      },
+      "race_no": 2,
+      "top_pick": 1,
+      "confidence": 0.6575,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 160
+    },
+    {
+      "venue": {
+        "code": "18",
+        "name": "徳山"
+      },
+      "race_no": 3,
+      "top_pick": 1,
+      "confidence": 0.5958,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 150
+    },
+    {
+      "venue": {
+        "code": "18",
+        "name": "徳山"
+      },
+      "race_no": 4,
+      "top_pick": 1,
+      "confidence": 0.7278,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 100
+    },
+    {
+      "venue": {
+        "code": "18",
+        "name": "徳山"
+      },
+      "race_no": 5,
+      "top_pick": 1,
+      "confidence": 0.7776,
+      "status": "confirmed",
+      "actual_winner": 3,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "18",
+        "name": "徳山"
+      },
+      "race_no": 6,
+      "top_pick": 1,
+      "confidence": 0.3427,
+      "status": "confirmed",
+      "actual_winner": 2,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "18",
+        "name": "徳山"
+      },
+      "race_no": 7,
+      "top_pick": 1,
+      "confidence": 0.6797,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 130
+    },
+    {
+      "venue": {
+        "code": "18",
+        "name": "徳山"
+      },
+      "race_no": 8,
+      "top_pick": 1,
+      "confidence": 0.675,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 100
+    },
+    {
+      "venue": {
+        "code": "18",
+        "name": "徳山"
+      },
+      "race_no": 9,
+      "top_pick": 1,
+      "confidence": 0.7692,
+      "status": "confirmed",
+      "actual_winner": 5,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "18",
+        "name": "徳山"
+      },
+      "race_no": 10,
+      "top_pick": 1,
+      "confidence": 0.822,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 120
+    },
+    {
+      "venue": {
+        "code": "18",
+        "name": "徳山"
+      },
+      "race_no": 11,
+      "top_pick": 1,
+      "confidence": 0.7396,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 100
+    },
+    {
+      "venue": {
+        "code": "18",
+        "name": "徳山"
+      },
+      "race_no": 12,
+      "top_pick": 1,
+      "confidence": 0.7598,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 110
+    },
+    {
+      "venue": {
+        "code": "19",
+        "name": "下関"
+      },
+      "race_no": 1,
+      "top_pick": 1,
+      "confidence": 0.4896,
+      "status": "confirmed",
+      "actual_winner": 2,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "19",
+        "name": "下関"
+      },
+      "race_no": 2,
+      "top_pick": 4,
+      "confidence": 0.2596,
+      "status": "confirmed",
+      "actual_winner": 3,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "19",
+        "name": "下関"
+      },
+      "race_no": 3,
+      "top_pick": 1,
+      "confidence": 0.5067,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 160
+    },
+    {
+      "venue": {
+        "code": "19",
+        "name": "下関"
+      },
+      "race_no": 4,
+      "top_pick": 2,
+      "confidence": 0.4988,
+      "status": "confirmed",
+      "actual_winner": 3,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "19",
+        "name": "下関"
+      },
+      "race_no": 5,
+      "top_pick": 1,
+      "confidence": 0.4795,
+      "status": "confirmed",
+      "actual_winner": 4,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "19",
+        "name": "下関"
+      },
+      "race_no": 6,
+      "top_pick": 3,
+      "confidence": 0.342,
+      "status": "confirmed",
+      "actual_winner": 3,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 410
+    },
+    {
+      "venue": {
+        "code": "19",
+        "name": "下関"
+      },
+      "race_no": 7,
+      "top_pick": 1,
+      "confidence": 0.5645,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 230
+    },
+    {
+      "venue": {
+        "code": "19",
+        "name": "下関"
+      },
+      "race_no": 8,
+      "top_pick": 1,
+      "confidence": 0.7545,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 150
+    },
+    {
+      "venue": {
+        "code": "19",
+        "name": "下関"
+      },
+      "race_no": 9,
+      "top_pick": 1,
+      "confidence": 0.4452,
+      "status": "confirmed",
+      "actual_winner": 6,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "19",
+        "name": "下関"
+      },
+      "race_no": 10,
+      "top_pick": 1,
+      "confidence": 0.7328,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 100
+    },
+    {
+      "venue": {
+        "code": "19",
+        "name": "下関"
+      },
+      "race_no": 11,
+      "top_pick": 1,
+      "confidence": 0.8492,
+      "status": "confirmed",
+      "actual_winner": 4,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "19",
+        "name": "下関"
+      },
+      "race_no": 12,
+      "top_pick": 1,
+      "confidence": 0.7186,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 100
+    },
+    {
+      "venue": {
+        "code": "20",
+        "name": "若松"
+      },
+      "race_no": 1,
+      "top_pick": 1,
+      "confidence": 0.4624,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 160
+    },
+    {
+      "venue": {
+        "code": "20",
+        "name": "若松"
+      },
+      "race_no": 2,
+      "top_pick": 1,
+      "confidence": 0.5799,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 140
+    },
+    {
+      "venue": {
+        "code": "20",
+        "name": "若松"
+      },
+      "race_no": 3,
+      "top_pick": 1,
+      "confidence": 0.5434,
+      "status": "confirmed",
+      "actual_winner": 4,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "20",
+        "name": "若松"
+      },
+      "race_no": 4,
+      "top_pick": 1,
+      "confidence": 0.4122,
+      "status": "confirmed",
+      "actual_winner": 2,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "20",
+        "name": "若松"
+      },
+      "race_no": 5,
+      "top_pick": 1,
+      "confidence": 0.5127,
+      "status": "confirmed",
+      "actual_winner": 3,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "20",
+        "name": "若松"
+      },
+      "race_no": 6,
+      "top_pick": 1,
+      "confidence": 0.6317,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 180
+    },
+    {
+      "venue": {
+        "code": "20",
+        "name": "若松"
+      },
+      "race_no": 7,
+      "top_pick": 1,
+      "confidence": 0.6657,
+      "status": "confirmed",
+      "actual_winner": 3,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "20",
+        "name": "若松"
+      },
+      "race_no": 8,
+      "top_pick": 1,
+      "confidence": 0.7208,
+      "status": "confirmed",
+      "actual_winner": 3,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "20",
+        "name": "若松"
+      },
+      "race_no": 9,
+      "top_pick": 1,
+      "confidence": 0.7745,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 120
+    },
+    {
+      "venue": {
+        "code": "20",
+        "name": "若松"
+      },
+      "race_no": 10,
+      "top_pick": 1,
+      "confidence": 0.4885,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 140
+    },
+    {
+      "venue": {
+        "code": "20",
+        "name": "若松"
+      },
+      "race_no": 11,
+      "top_pick": 1,
+      "confidence": 0.7494,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 140
+    },
+    {
+      "venue": {
+        "code": "20",
+        "name": "若松"
+      },
+      "race_no": 12,
+      "top_pick": 1,
+      "confidence": 0.5338,
+      "status": "confirmed",
+      "actual_winner": 5,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "21",
+        "name": "芦屋"
+      },
+      "race_no": 1,
+      "top_pick": 1,
+      "confidence": 0.7487,
+      "status": "confirmed",
+      "actual_winner": 5,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "21",
+        "name": "芦屋"
+      },
+      "race_no": 2,
+      "top_pick": 1,
+      "confidence": 0.8205,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 150
+    },
+    {
+      "venue": {
+        "code": "21",
+        "name": "芦屋"
+      },
+      "race_no": 3,
+      "top_pick": 1,
+      "confidence": 0.4808,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 180
+    },
+    {
+      "venue": {
+        "code": "21",
+        "name": "芦屋"
+      },
+      "race_no": 4,
+      "top_pick": 1,
+      "confidence": 0.8055,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 100
+    },
+    {
+      "venue": {
+        "code": "21",
+        "name": "芦屋"
+      },
+      "race_no": 5,
+      "top_pick": 1,
+      "confidence": 0.9128,
+      "status": "confirmed",
+      "actual_winner": 4,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "21",
+        "name": "芦屋"
+      },
+      "race_no": 6,
+      "top_pick": 1,
+      "confidence": 0.4203,
+      "status": "confirmed",
+      "actual_winner": 2,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "21",
+        "name": "芦屋"
+      },
+      "race_no": 7,
+      "top_pick": 1,
+      "confidence": 0.7413,
+      "status": "confirmed",
+      "actual_winner": 5,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "21",
+        "name": "芦屋"
+      },
+      "race_no": 8,
+      "top_pick": 1,
+      "confidence": 0.5263,
+      "status": "confirmed",
+      "actual_winner": 2,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "21",
+        "name": "芦屋"
+      },
+      "race_no": 9,
+      "top_pick": 1,
+      "confidence": 0.5748,
+      "status": "confirmed",
+      "actual_winner": 4,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "21",
+        "name": "芦屋"
+      },
+      "race_no": 10,
+      "top_pick": 1,
+      "confidence": 0.6158,
+      "status": "confirmed",
+      "actual_winner": 4,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "21",
+        "name": "芦屋"
+      },
+      "race_no": 11,
+      "top_pick": 3,
+      "confidence": 0.4992,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "21",
+        "name": "芦屋"
+      },
+      "race_no": 12,
+      "top_pick": 1,
+      "confidence": 0.8326,
+      "status": "confirmed",
+      "actual_winner": 4,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "22",
+        "name": "福岡"
+      },
+      "race_no": 1,
+      "top_pick": 1,
+      "confidence": 0.8932,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 100
+    },
+    {
+      "venue": {
+        "code": "22",
+        "name": "福岡"
+      },
+      "race_no": 2,
+      "top_pick": 5,
+      "confidence": 0.2408,
+      "status": "confirmed",
+      "actual_winner": 2,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "22",
+        "name": "福岡"
+      },
+      "race_no": 3,
+      "top_pick": 1,
+      "confidence": 0.4407,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 250
+    },
+    {
+      "venue": {
+        "code": "22",
+        "name": "福岡"
+      },
+      "race_no": 4,
+      "top_pick": 1,
+      "confidence": 0.521,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 290
+    },
+    {
+      "venue": {
+        "code": "22",
+        "name": "福岡"
+      },
+      "race_no": 5,
+      "top_pick": 2,
+      "confidence": 0.3291,
+      "status": "confirmed",
+      "actual_winner": 3,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "22",
+        "name": "福岡"
+      },
+      "race_no": 6,
+      "top_pick": 1,
+      "confidence": 0.4965,
       "status": "confirmed",
       "actual_winner": 1,
       "hit": true,
@@ -1960,69 +1938,139 @@
     },
     {
       "venue": {
-        "code": "24",
-        "name": "大村"
+        "code": "22",
+        "name": "福岡"
       },
-      "race_no": 12,
+      "race_no": 7,
       "top_pick": 1,
-      "confidence": 0.6946,
+      "confidence": 0.4564,
+      "status": "confirmed",
+      "actual_winner": 2,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "22",
+        "name": "福岡"
+      },
+      "race_no": 8,
+      "top_pick": 1,
+      "confidence": 0.6985,
+      "status": "confirmed",
+      "actual_winner": 2,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
+    },
+    {
+      "venue": {
+        "code": "22",
+        "name": "福岡"
+      },
+      "race_no": 9,
+      "top_pick": 1,
+      "confidence": 0.6181,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 100
+    },
+    {
+      "venue": {
+        "code": "22",
+        "name": "福岡"
+      },
+      "race_no": 10,
+      "top_pick": 1,
+      "confidence": 0.6438,
+      "status": "confirmed",
+      "actual_winner": 1,
+      "hit": true,
+      "stake": 100,
+      "payout_yen": 100
+    },
+    {
+      "venue": {
+        "code": "22",
+        "name": "福岡"
+      },
+      "race_no": 11,
+      "top_pick": 1,
+      "confidence": 0.7716,
       "status": "confirmed",
       "actual_winner": 1,
       "hit": true,
       "stake": 100,
       "payout_yen": 110
+    },
+    {
+      "venue": {
+        "code": "22",
+        "name": "福岡"
+      },
+      "race_no": 12,
+      "top_pick": 1,
+      "confidence": 0.8053,
+      "status": "confirmed",
+      "actual_winner": 2,
+      "hit": false,
+      "stake": 100,
+      "payout_yen": 0
     }
   ],
   "counts": {
     "scheduled": 144,
-    "confirmed": 132,
-    "pending": 12,
-    "hits": 71,
-    "hit_rate": 0.5379,
-    "stake": 13200,
-    "return": 11550,
-    "roi": 0.875
+    "confirmed": 144,
+    "pending": 0,
+    "hits": 80,
+    "hit_rate": 0.5556,
+    "stake": 14400,
+    "return": 13900,
+    "roi": 0.9653
   },
   "by_confidence_bucket": {
     "0.2": {
-      "n": 4,
-      "hits": 2,
-      "roi": 1.675
+      "n": 2,
+      "hits": 0,
+      "roi": 0.0
     },
     "0.3": {
-      "n": 15,
-      "hits": 3,
-      "roi": 0.6467
+      "n": 19,
+      "hits": 9,
+      "roi": 1.5842
     },
     "0.4": {
-      "n": 31,
-      "hits": 11,
-      "roi": 0.7258
+      "n": 34,
+      "hits": 16,
+      "roi": 1.0647
     },
     "0.5": {
-      "n": 20,
+      "n": 27,
       "hits": 13,
-      "roi": 1.03
+      "roi": 0.7444
     },
     "0.6": {
-      "n": 30,
-      "hits": 15,
-      "roi": 0.6867
+      "n": 26,
+      "hits": 18,
+      "roi": 0.9385
     },
     "0.7": {
-      "n": 25,
-      "hits": 22,
-      "roi": 1.2
+      "n": 24,
+      "hits": 17,
+      "roi": 0.8542
     },
     "0.8": {
-      "n": 5,
-      "hits": 3,
-      "roi": 0.62
+      "n": 10,
+      "hits": 6,
+      "roi": 0.67
     },
     "0.9": {
       "n": 2,
-      "hits": 2,
-      "roi": 1.15
+      "hits": 1,
+      "roi": 0.5
     }
   }
 }
