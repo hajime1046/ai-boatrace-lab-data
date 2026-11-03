@@ -1,22 +1,22 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-02T23:32:48.750923+09:00",
-  "n_days": 112,
+  "generated_at": "2026-11-03T23:32:47.708753+09:00",
+  "n_days": 113,
   "overall": {
-    "n_confirmed": 17417,
-    "n_hits": 9861,
-    "hit_rate": 0.5662,
-    "stake": 1741700,
-    "return": 1581250,
-    "roi": 0.9079
+    "n_confirmed": 17573,
+    "n_hits": 9952,
+    "hit_rate": 0.5663,
+    "stake": 1757300,
+    "return": 1595700,
+    "roi": 0.908
   },
   "confidence_0_8_plus_strategy": {
-    "n_bets": 1534,
-    "hits": 1246,
-    "hit_rate": 0.8123,
-    "stake": 153400,
-    "return": 142330,
-    "roi": 0.9278
+    "n_bets": 1550,
+    "hits": 1261,
+    "hit_rate": 0.8135,
+    "stake": 155000,
+    "return": 143990,
+    "roi": 0.929
   },
   "daily_series": [
     {
@@ -690,6 +690,12 @@
       "confirmed": 156,
       "hits": 96,
       "roi": 1.0135
+    },
+    {
+      "date": "2026-11-03",
+      "confirmed": 156,
+      "hits": 91,
+      "roi": 0.9263
     }
   ]
 }
